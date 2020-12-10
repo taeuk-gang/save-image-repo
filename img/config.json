@@ -1,0 +1,23 @@
+{
+  "picBed": {
+    "current": "github",
+    "github": {
+      "repo": "taeuk-gang/save-image-repo",
+      "branch": "image",
+      "token": "0c084f083d79c9864903486ebf56abc1d704390d",
+      "path": "img/",
+      "customUrl": "https://raw.githubusercontent.com/taeuk-gang/save-image-repo/image"
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "upload": "CommandOrControl+Shift+P"
+    },
+    "showUpdateTip": true,
+    "autoStart": true,
+    "uploadNotification": true,
+    "miniWindowOntop": true
+  },
+  "needReload": false,
+  "picgoPlugins": {}
+}
